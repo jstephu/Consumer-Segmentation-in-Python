@@ -1,4 +1,4 @@
-# Understanding Customer Behaviors with Cohort Analysis and RFM Framwork
+# Understanding Customer Behaviors with Cohort Analysis and RFM Framework
 
 Problem: Are we able to create distinguishing segments and design CRM campaigns accordingly to improve customer engagement and/or monetization?
 
